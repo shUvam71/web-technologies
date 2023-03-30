@@ -1,0 +1,28 @@
+h1{font-family: 'Delicious Handrawn', cursive;;
+    background-color: antiquewhite;
+    font-size: 30px;
+    color:blueviolet
+}
+#p1{
+    background-color: aqua;
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+}
+#p2{
+    background-color: aqua;
+    font-size: 30px;
+    color: chocolate;
+    font-style: italic;
+}
+#p3{
+    background-color: floralwhite;
+    font-size: 30px;
+    color: indigo;
+    font-style: italic;
+}
+#p3:hover{
+    background-color: orange;
+    color:black
+}
+img[alt]{color:aliceblue;}
